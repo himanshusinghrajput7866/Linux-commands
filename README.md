@@ -1,3 +1,4 @@
 # Linux-commands
-## LS command :-
-- It is use to see all the files and folders present in current directory
+## Touch command :-
+- 1. What is this command ?
+This command is used to create empty file/files at a time
